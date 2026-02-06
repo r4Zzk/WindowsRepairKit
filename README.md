@@ -88,7 +88,7 @@ Usar bajo responsabilidad del usuario.
 
 ## Licencia
 
-Este proyecto está bajo licencia MIT.
+Este proyecto está bajo licencia GNU General Public License v3.0.
 Ver el archivo LICENSE
  para más información.
  
